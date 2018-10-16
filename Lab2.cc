@@ -8,9 +8,9 @@ using namespace std;
 //o wsykoiehj jakosci kometarze
 
 int main() {
-int PierwszaZmienna=5;
-int Drugazmienna=7;
-int WynikDziałania=PierwszaZmienna+Drugazmienna;
+int PierwszaZmienna = 5;
+int Drugazmienna = 7;
+int WynikDziałania = PierwszaZmienna + Drugazmienna;
 
 cout <<"Wynik Dodawania Dwóch Liczb To:"<<WynikDziałania<<endl;
 // Wypisuj wynik dzialania
